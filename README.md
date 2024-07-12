@@ -11,7 +11,7 @@ This is a landing page for a music academy where users can explore and purchase 
 
 
 ## Demo
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://music-academy-aman-kumar-sinha.vercel.app/)
 
 ## Features
 - Responsive design
