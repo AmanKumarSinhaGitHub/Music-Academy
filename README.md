@@ -2,6 +2,9 @@
 
 This is a landing page for a music academy where users can explore and purchase music courses. The project is built using Next.js, Tailwind CSS, TypeScript, Aceternity UI, and Formspree for handling form submissions.
 
+![Preview](https://github.com/user-attachments/assets/42a38b98-0b62-4191-bc69-1e0f024138ad)
+
+
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
